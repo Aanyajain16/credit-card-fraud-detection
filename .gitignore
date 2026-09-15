@@ -1,0 +1,9 @@
+train_transaction.csv
+*.csv
+
+__pycache__/
+*.pyc
+
+venv/
+.env
+.ipynb_checkpoints/
